@@ -1,6 +1,5 @@
 # github-app-sample
-
-This template should help get you started developing with Vue 3 in Vite.
+This is a sample project for learning github apps.
 
 ## Recommended IDE Setup
 
